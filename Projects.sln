@@ -19,15 +19,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhileStatments", "WhileStat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoWhileStatments", "DoWhileStatments\DoWhileStatments.csproj", "{3DEEFF01-7CC3-4392-ABC5-A922AF79E5E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casting", "Casting\Casting.csproj", "{EE151906-CBD2-4481-924F-40156232A9C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Casting", "Casting\Casting.csproj", "{EE151906-CBD2-4481-924F-40156232A9C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math.Round", "Math.Round\Math.Round.csproj", "{1022D9CC-A4FD-437C-812E-0841386D47B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math.Round", "Math.Round\Math.Round.csproj", "{1022D9CC-A4FD-437C-812E-0841386D47B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToString", "ToString\ToString.csproj", "{123F084E-537E-487A-BD93-5133CE2DC0E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToString", "ToString\ToString.csproj", "{123F084E-537E-487A-BD93-5133CE2DC0E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parse", "Parse\Parse.csproj", "{D66B8B67-227E-4F6E-A4DF-6B526C7C286A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parse", "Parse\Parse.csproj", "{D66B8B67-227E-4F6E-A4DF-6B526C7C286A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryParse", "TryParse\TryParse.csproj", "{C9FFB40A-8F0B-4BD9-9CBA-78AD707C0CC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TryParse", "TryParse\TryParse.csproj", "{C9FFB40A-8F0B-4BD9-9CBA-78AD707C0CC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlingExeptions", "HandlingExeptions\HandlingExeptions.csproj", "{CFCF4CE7-EE17-4BA8-96E4-AE16455EB51E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{C9FFB40A-8F0B-4BD9-9CBA-78AD707C0CC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9FFB40A-8F0B-4BD9-9CBA-78AD707C0CC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9FFB40A-8F0B-4BD9-9CBA-78AD707C0CC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFCF4CE7-EE17-4BA8-96E4-AE16455EB51E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFCF4CE7-EE17-4BA8-96E4-AE16455EB51E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFCF4CE7-EE17-4BA8-96E4-AE16455EB51E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFCF4CE7-EE17-4BA8-96E4-AE16455EB51E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
